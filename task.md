@@ -14,7 +14,8 @@
 > 第一版主  
 > 第一版主 999  
 > 耽美小说网  
-> 腐国度
+> 腐国度  
+> 紫笔
 
 有难度
 
@@ -58,4 +59,5 @@
 
 2019.6.9
 
-> ~~大家读[https://www.dajiadu.net] Y~~
+> ~~大家读[https://www.dajiadu.net] Y~~  
+> ~~紫笔[http://m.zibibi.com/] Y~~
