@@ -7,6 +7,7 @@
 > 88 读书网  
 > 有度中文网
 > 手机小说下载网  
+> 三千五中文网  
 > 48 文学网(H)  
 > 书楼吧(H)  
 > 小笔趣阁  
@@ -34,7 +35,7 @@
 > ~~雅尔文[www.yaerwen.com](打不开)~~  
 > ~~猎文网[www.liewen.cc] Y~~  
 > ~~小笔趣阁[www.xiaobiquge.com]~~  
-> 88 读书网[m.88dush.com]  
+> ~~88 读书网[m.88dush.com]~~  
 > 梧州中文网[www.gxwztv.com]  
 > 完本神站[www.wanbentxt.com]  
 > 鬼姐姐小说网[m.guijj.com]  
