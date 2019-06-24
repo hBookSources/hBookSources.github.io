@@ -19,12 +19,13 @@
 > 第一版主 999(H)  
 > 耽美小说网  
 > 腐国度  
-> 逆鳞-大主宰(H)  
+> ~~鳞-大主宰(H)~~  
 > 大家读  
 > 紫笔  
 > 94 小说网  
 > 第二书包网(H)  
-> 五块五毛（下一页会到下一章？加载正文超级慢）
+> 五块五毛  
+> 御书宅
 
 有难度
 
@@ -90,3 +91,56 @@
 ### 2019.6.23
 
 > 酷友-有度中文网-感觉还不错
+
+### 2019.6.25
+
+> 三千五中文网  
+> 移除逆鳞大主宰
+
+```
+,
+{
+"bookSourceName": "逆鳞-大主宰",
+"bookSourceGroup": "hhy自制; H",
+"bookSourceUrl": "http://44beg.com",
+"loginUrl": "",
+"ruleFindUrl": "首页::http://44beg.com",
+"ruleFindList": "//div[@class='news']/ul/li",
+"ruleFindName": "tag.a@title",
+"ruleFindAuthor": "",
+"ruleFindKind": "",
+"ruleFindLastChapter": "",
+"ruleFindIntroduce": "",
+"ruleFindCoverUrl": "",
+"ruleFindNoteUrl": "tag.a@href@put:{url:class.title@href}",
+"ruleSearchUrl":
+"/e/search/index.php@show=title&tempid=1&tbname=article&mid=1&dopost=search&keyboard=searchKey&submit=|char=gb2312",
+"ruleBookUrlPattern": "",
+"ruleSearchList": "class.result",
+"ruleSearchName": "class.title@textNodes#【|】.*",
+"ruleSearchAuthor": "//a[@class='author']/text()",
+"ruleSearchKind": "",
+"ruleSearchLastChapter": "",
+"ruleSearchIntroduce": "",
+"ruleSearchCoverUrl": "",
+"ruleSearchNoteUrl": "class.title@href@put:{url:class.title@href}",
+"ruleBookInfoInit": "",
+"ruleBookName": "title@text#^[^【|】]",
+"ruleBookAuthor": "",
+"ruleBookKind": "",
+"ruleBookLastChapter": "",
+"ruleIntroduce": "",
+"ruleCoverUrl": "",
+"ruleChapterUrl": "",
+"ruleChapterUrlNext": "",
+"ruleChapterList": "title#【|】.*",
+"ruleChapterName": "text",
+"ruleContentUrl": "@get:{url}",
+"ruleBookContent": "class.entry@textNodes",
+"ruleContentUrlNext": "",
+"httpUserAgent": "",
+"serialNumber": 15,
+"weight": 0,
+"enable": true
+}
+```
