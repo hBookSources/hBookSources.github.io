@@ -38,7 +38,7 @@
 > ~~猎文网[www.liewen.cc] Y~~  
 > ~~小笔趣阁[www.xiaobiquge.com] Y~~  
 > ~~88 读书网[m.88dush.com] Y~~  
-> 梧州中文网[www.gxwztv.com]  
+> ~~梧州中文网[www.gxwztv.com] Y~~  
 > ~~完本神站[www.wanbentxt.com] Y~~  
 > 鬼姐姐小说网[m.guijj.com]  
 > 衍墨轩[www.ymoxuan.com]  
